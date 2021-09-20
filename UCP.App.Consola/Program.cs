@@ -19,6 +19,7 @@ namespace UCP.App.Consola
             EncontrarProfesores();
             //EliminarProfesor(2);
             //EncontrarProfesores();
+            EncontrarProfesores();
         }
 
         //CRUD
